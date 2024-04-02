@@ -3,7 +3,7 @@
 Welcome to the Movie Search App! This web application allows you to search for your favorite movies and discover new ones effortlessly. Whether you're looking for the latest blockbuster or a timeless classic, this app has got you covered.
 
 ## 1.Try it Out!
-- You can access the Quiz Master project live by clicking here.
+- You can access the Quiz Master project live by clicking https://mddanish11.github.io/Movie-Search-App-2/
 
 ## 2.Features:
 - __Search Functionality__ : Easily search for movies by title, actor, director, or genre.
@@ -25,8 +25,11 @@ Welcome to the Movie Search App! This web application allows you to search for y
 
 ## 4.Technologies Used:
 - __HTML__ : Used for the structure of the web pages.
+  
 - __CSS__ : Employed for styling and design elements.
+  
 - __JavaScript__ : Implemented for dynamic functionality, including the search feature.
+  
 ## 5.How to Contribute:
 - Fork the repository.
 
